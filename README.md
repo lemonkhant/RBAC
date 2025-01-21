@@ -32,7 +32,7 @@ To get started, clone this repository and follow the instructions below to set u
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/role-based-login.git
+git clone [https://github.com/lemonkhant/role-based-login.git](https://github.com/lemonkhant/RBAC.git)
 
 # Navigate into the project directory
 cd role-based-login
